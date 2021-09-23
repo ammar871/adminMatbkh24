@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="155.753" height="34.513" viewBox="0 0 155.753 34.513">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.365" y1="-0.561" x2="0.376" y2="0.658" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fecd54"/>
+      <stop offset="1" stop-color="#fecd54" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <path id="icon_mandop" d="M533,369.433s4.577,2.673,6.612,1c0,0,11.528-24.589,25.692-30.391,0,0,17.16-8.581,29.544,16.294,0,0,8.9-19.919,30.077-16.294,17.2,2.944,16.209,14.715,19.133,13.349,0,0,14.891-6.911,17.477,14.914,0,0,18.1-26.218,24.455-17.305" transform="translate(-531.632 -337.564)" stroke="#fecd54" stroke-linecap="round" stroke-width="2" stroke-dasharray="0 4" fill="url(#linear-gradient)"/>
+</svg>
